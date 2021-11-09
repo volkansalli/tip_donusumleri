@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\ref\tip_donusumleri.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\bin\Debug\net5.0\tip_donusumleri.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\ref\tip_donusumleri.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\tip_donusumleri\obj\Debug\net5.0\tip_donusumleri.genruntimeconfig.cache
